@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  fanelShopApiUrl: "https://localhost:8443/api",
+  stripePublishableKey: "pk_test_51NcP2AKuMOMYepF0ZDkDYMX0Lf76Jxabj9rOAaBldo4VnLcTPaorg2Nqfuzx99zVa2hD813lCRW2KpQsixWUNnoa00lN06iDSV"
 };
 
 /*
